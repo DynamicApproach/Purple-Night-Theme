@@ -1,16 +1,28 @@
-# purple-night-tlj README
+# TLJ / DynamicApproach Theme
 
-## Working with Markdown
+![Theme Preview](theme_preview.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Description
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This theme, created by TLJ / DynamicApproach, is a customized version of the Dark+ and Monokai Pro themes. It features a beautiful dark purple color palette that is easy on the eyes, with bright yellow effects for noticeable changes.
 
-## For more information
+## Customizations
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Here are the key customizations made in this theme:
 
-**Enjoy!**
+- Dark purple color palette for a visually appealing experience.
+- Bright yellow effects for noticeable changes.
+
+## Example Colors
+
+Here are some code snippets showcasing the TLJ / DynamicApproach theme:
+
+## Credits
+
+Theme Base: Dark+ and Monokai Pro themes
+Author: TLJ / DynamicApproach
+Repository: dynamicapproach-theme
+
+## License
+
+This theme is licensed under the MIT License.

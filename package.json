@@ -1,11 +1,26 @@
 {
   "name": "purple-night-tlj",
   "displayName": "Purple Night TLJ",
+  "publisher": "DynamicApproach",
+  "author": "Thomas Lloyd-Jones",
   "description": "A dark theme with purple and yellow flavors. My perfect mix of Monokai and Dark+ with a hint of my own flavoring. ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DynamicApproach/Purple-Night-tlj"
+  },
+  "homepage": "https://DynamicApproach.dev",
+  "license": "MIT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
   },
+  "keywords": [
+    "dark",
+    "purple",
+    "yellow",
+    "monokai",
+    "night"
+  ],
   "categories": [
     "Themes"
   ],
