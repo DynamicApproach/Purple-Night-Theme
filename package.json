@@ -1,0 +1,21 @@
+{
+  "name": "purple-night-tlj",
+  "displayName": "Purple Night TLJ",
+  "description": "A dark theme with purple and yellow flavors. My perfect mix of Monokai and Dark+ with a hint of my own flavoring. ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple Night-color-theme.json"
+      }
+    ]
+  }
+}
